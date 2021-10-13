@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Noble Connect/UNet/Examples/Network Manager/Example Network Manager.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
